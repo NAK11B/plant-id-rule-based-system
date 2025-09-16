@@ -1,0 +1,4 @@
+# requirements.txt
+# Plant ID Rule-Based System
+# This project only uses the Python standard library.
+# No external dependencies required.
