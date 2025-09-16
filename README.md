@@ -3,13 +3,6 @@
 A rule-based AI system for identifying plants, trees, and shrubs.  
 This project demonstrates how **expert systems** worked before modern machine learning by using **if–then rules** to match plant traits to possible species.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Project Ideas Considered](#project-ideas-considered)
-- [System Design](#system-design)
-- [Example Runs](#example-runs)
-- [Reflection](#reflection)
-- [Future Improvements](#future-improvements)
 ---
 
 ## 📌 Project Overview
